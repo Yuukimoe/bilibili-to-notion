@@ -14,8 +14,8 @@
 ### Step 1: 克隆项目到本地, 安装依赖
 
 ```bash
-git clone https://github.com/uuk1/bilibili_to_notion
-cd bilibili_to_notion
+git clone https://github.com/uuk1/bilibili-to-Notion.git
+cd bilibili-to-Notion
 python3 -m pip install -r requirements.txt
 ```
 
